@@ -114,13 +114,13 @@ let mastersongname = document.getElementById("mastersongname");
 let songcover = document.getElementById("songcover");
 
 let songs = [
-    {Songname: "Bad bunny dtmf", filepath: "songs/1.mp3", coverPath: "https://images.pexels.com/photos/236047/pexels-photo-236047.jpeg?cs=srgb&dl=clouds-cloudy-countryside-236047.jpg&fm=jpg"},
-    {Songname: "Gata only", filepath: "songs/2.mp3", coverPath: "https://live.staticflickr.com/4077/4787717239_5c443b3acb_b.jpg"},
-    {Songname: "peligrosa", filepath: "songs/3.mp3", coverPath: "https://i.ytimg.com/vi/NCd5JBdbW_Y/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgSig-MA8=&rs=AOn4CLB_tl_PV4Z08s_5tjRtIq9TpKoq5g"},
-    {Songname: "all the stars", filepath: "songs/4.mp3", coverPath: "https://preview.redd.it/empty-streets-at-3am-v0-zabq09429te91.jpg?auto=webp&s=7497d536fee871ed8a4fb4ad4bfa74646134e170"},
-    {Songname: "metamorphosis", filepath: "songs/5.mp3", coverPath: "https://preview.redd.it/empty-streets-at-3am-v0-zabq09429te91.jpg?auto=webp&s=7497d536fee871ed8a4fb4ad4bfa74646134e170"},
-    {Songname: "squid game funk", filepath: "songs/6.mp3", coverPath: "https://preview.redd.it/empty-streets-at-3am-v0-zabq09429te91.jpg?auto=webp&s=7497d536fee871ed8a4fb4ad4bfa74646134e170"},
-    {Songname: "Mortals", filepath: "songs/7.mp3", coverPath: "https://preview.redd.it/empty-streets-at-3am-v0-zabq09429te91.jpg?auto=webp&s=7497d536fee871ed8a4fb4ad4bfa74646134e170"},
+    {Songname: "Bad bunny dtmf", filepath: "songs/1.mp3.mp3", coverPath: "https://images.pexels.com/photos/236047/pexels-photo-236047.jpeg?cs=srgb&dl=clouds-cloudy-countryside-236047.jpg&fm=jpg"},
+    {Songname: "Gata only", filepath: "songs/2.mp3.mp3", coverPath: "https://live.staticflickr.com/4077/4787717239_5c443b3acb_b.jpg"},
+    {Songname: "peligrosa", filepath: "songs/3.mp3.mp3", coverPath: "https://i.ytimg.com/vi/NCd5JBdbW_Y/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgSig-MA8=&rs=AOn4CLB_tl_PV4Z08s_5tjRtIq9TpKoq5g"},
+    {Songname: "all the stars", filepath: "songs/4.mp3.mp3", coverPath: "https://preview.redd.it/empty-streets-at-3am-v0-zabq09429te91.jpg?auto=webp&s=7497d536fee871ed8a4fb4ad4bfa74646134e170"},
+    {Songname: "metamorphosis", filepath: "songs/5.mp3.mp3", coverPath: "https://preview.redd.it/empty-streets-at-3am-v0-zabq09429te91.jpg?auto=webp&s=7497d536fee871ed8a4fb4ad4bfa74646134e170"},
+    {Songname: "squid game funk", filepath: "songs/6.mp3.mp3", coverPath: "https://preview.redd.it/empty-streets-at-3am-v0-zabq09429te91.jpg?auto=webp&s=7497d536fee871ed8a4fb4ad4bfa74646134e170"},
+    {Songname: "Mortals", filepath: "songs/7.mp3.mp3", coverPath: "https://preview.redd.it/empty-streets-at-3am-v0-zabq09429te91.jpg?auto=webp&s=7497d536fee871ed8a4fb4ad4bfa74646134e170"},
 ];
 
 songitems.forEach((element, i) => {
